@@ -1,0 +1,72 @@
+body{
+
+    background-color: #141414;
+
+}
+
+#centro{
+
+    background-color: #1F1F1F;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    color: white;
+    
+      
+}
+p{
+    text-align: center;
+    
+}
+
+img{
+
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 40%;
+    margin-right: 40%;
+   
+}
+.verde{
+
+color: #94AD4E;
+margin-left: 20%;
+margin-right: 20%;
+font-size: 15px;
+    
+}
+
+.branco{
+    
+color: white;
+margin-left: 20%;
+margin-right: 20%;
+font-size: 15px;   
+}
+
+#centro button{
+
+margin-left: 90px;
+top: 350x;
+left: 500px;
+border-radius: 5px;
+border: 1px#333333;
+background-color: #333333;
+color: white;
+width: 250px;
+height: 50px;
+}
+
+#centro button:hover{
+
+    background-color: green;
+}
+
